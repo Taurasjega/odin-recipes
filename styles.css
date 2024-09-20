@@ -1,0 +1,15 @@
+h1{
+    color:rgb(253, 34, 5);
+    background-color: blue;
+    font-weight: 800;
+}
+
+body{
+    font-family: 'serif' , 'Arial', 'sans-serif';
+    font-size: 24px;
+    background-color: purple;
+}
+
+a {
+    color: black;
+}
