@@ -1,15 +1,18 @@
+
 h1{
-    color:rgb(253, 34, 5);
-    background-color: blue;
+    color: black(253, 34, 5);
+    background-color: white;
     font-weight: 800;
+    text-align: center;
 }
 
 body{
     font-family: 'serif' , 'Arial', 'sans-serif';
     font-size: 24px;
-    background-color: purple;
+    background-color: black;
 }
 
 a {
-    color: black;
+    color: white;
 }
+
