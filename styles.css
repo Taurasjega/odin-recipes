@@ -1,9 +1,12 @@
 
 h1{
+    font-family: serif 'Times New Roman', sans-serif;
     color: black(253, 34, 5);
     background-color: white;
     font-weight: 800;
     text-align: center;
+    margin: 20px auto;
+    width: 600px;
 }
 
 body{
@@ -14,5 +17,8 @@ body{
 
 a {
     color: white;
+    box-sizing: border-box;
+    width: 300px;
+    margin: 20px 600px; 
 }
 

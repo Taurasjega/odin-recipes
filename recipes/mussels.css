@@ -1,12 +1,15 @@
 img{
-    margin-left: 400px;
+    margin: 20px 600px;
+    width: 600px;
 }
 
 h1 {
     text-align: center;
     color:black;
     background-color: white;
-
+    width: 600px;
+    box-sizing: border-box;
+    margin: 0 auto;
 }
 
 body{

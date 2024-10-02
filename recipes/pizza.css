@@ -1,12 +1,16 @@
 img{
-    margin-left: 400px;
-    margin-bottom: 100px;
+    margin: 20px 5px;
+    box-sizing: border-box;
+    width: 600px;
+
 }
 
 h1 {
     text-align: center;
     color:black;
     background-color: white;
+    width: 600px;
+    margin: 0 auto;
 
 }
 
@@ -20,6 +24,7 @@ p{
 
 ul {
     color: white;
+
 }
 
 ol {

@@ -1,12 +1,16 @@
 /* Added new background colors and image aligment for lasagna picture */
 img{
-    margin-left: 400px;
+    margin: 20px 500px;
+    width: 800px;
 }
 
-h1 {
-    text-align: center;
-    color:black;
+h1{
+    color: black(253, 34, 5);
     background-color: white;
+    font-weight: 800;
+    text-align: center;
+    margin: auto;
+    width: 600px;
 
 }
 
@@ -16,6 +20,7 @@ body{
 
 p{
     color: white;
+    font-family: 'sans-serif', 'serif', 'Times New Roman';
 }
 
 ul {
